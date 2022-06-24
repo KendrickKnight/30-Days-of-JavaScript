@@ -1,0 +1,5 @@
+console.log(typeof "JOJO")
+console.log(typeof 9000)
+console.log(typeof true)
+console.log(typeof null)
+console.log(typeof undefined)
